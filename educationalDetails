@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+      <head>
+            <title>Education</title>
+            <style>
+                th,td,tr,table{
+                    border: 1px solid black;
+                    border-collapse: collapse;
+                    border-width: 0.5mm;
+                    padding: 15px;
+                }
+                fieldset{
+                    width: fit-content;      
+                }
+            </style>
+      <body>
+        <fieldset>
+                 <legend><span>My Educational Details</span></legend>
+                 <form>
+                       <table>
+                             <thead>
+                                    <th>Qualification</th>
+                                    <th>School/College</th>
+                                    <th>Board/University</th>
+                                    <th>Year</th>
+                                    <th>Percentage</th>
+                             </thead>
+                             <tbody>
+                                <tr>
+                                    <td>SSC/ 10<sup>th</sup>STD</td>
+                                    <td> Shree Dnyaneshwar English School </td>
+                                    <td> Pune University </td>
+                                    <td>2014</td>
+                                    <td>74.60 %</td>
+                                </tr>
+                                <tr>
+                                    <td>HSC/ 12<sup>th</sup>STD</td>
+                                    <td> B.G.P.Sahyadri Jr.College </td>
+                                    <td> Pune University </td>
+                                    <td>2016</td>
+                                    <td>50 %</td>
+                                </tr>
+                                <tr>
+                                    <td>Graduate</td>
+                                    <td>B.G.P.Sahyadri College </td>
+                                    <td> Nashik University </td>
+                                    <td>2021</td>
+                                    <td>67.83 %</td>
+                                </tr>
+                                <tr>
+                                    <td> Computer Diploma </td>
+                                    <td> Amrutvahini Polytechnic College </td>
+                                    <td> Pune University </td>
+                                    <td>2020</td>
+                                    <td>64.94 %</td>
+                                </tr>
+                             </tbody>
+                       </table>
+                 </form>
+        </fieldset>
+            
+      </body>
+</html>
