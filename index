@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Index </title>
+    </head>
+    <body>
+        <a href="education.html" target="_blank"> EDUCATION </a>  &nbsp; &nbsp;
+        <a href=""> CONTACT US </a>
+        <br> <br>
+        <iframe width="1050px" height="600px" name="MyFrame">
+
+        </iframe>
+        <br>
+        <footer>
+            <strong> Follow Me: &nbsp; &nbsp; </strong>
+            <a href="https://www.instagram.com/" target="_blank"> <i class="fa fa-instagram" aria-hidden="true"> </i></a>
+            <i class="fa fa-instagram" aria-hidden="true"> </i>
+        </footer>
+
+    </body>
+</html>
